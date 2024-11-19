@@ -17,6 +17,11 @@ The **Fire Detection Robot** is a basic demonstration of a robot equipped with a
 - To serve as a learning project for hardware and embedded systems.
 - To provide a demo suitable for competitions in the field of robotics.
 
+## Schematic
+The schematic for this project includes all necessary components for fire detection and extinguishing. It integrates a **fire sensor**, a **microcontroller** (Atmega32 and Arduino), a **robotic movement system** (DC motors and drivers), and a **pump system** for extinguishing fire. The design ensures seamless coordination between the sensors, actuators, and control logic.
+
+<img src="Sim Images.jpg" width="1000"/>
+
 ## Current Status
 - Basic functionality implemented and tested.
 - Designed for demonstration purposes in robotics competitions.
